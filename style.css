@@ -145,7 +145,7 @@
 .conversation {
   display: grid;
   grid-template-columns: 40px 1fr max-content;
-  grid-gap: 10px;
+  grid-gap: 5px;
   color: #fff;
 
   border-bottom: 1px solid #ddd;
